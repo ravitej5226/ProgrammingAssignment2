@@ -43,7 +43,7 @@ cacheSolve <- function(x, ...) {
 
     ## Return a matrix that is the inverse of 'x'
     m <- x$getInverse()
-
+If you can see me, you are all good
     ## Just return the inverse if its already set
     if( !is.null(m) ) {
             message("getting cached data")
