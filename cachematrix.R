@@ -4,7 +4,7 @@ Hello Worldy From a new space! Interrupted bu Turtle
 makeCacheMatrix <- function( m = matrix() ) {
 
 	## Initialize the inverse property
-    i <- NULL
+    i <- NULL   
 
     ## Method to set the matrix
     set <- function( matrix ) {   
